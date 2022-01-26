@@ -1,6 +1,4 @@
-# OC2-CC:T <br> <sup>[OpenComputers2](https://github.com/fnuecke/oc2) and [ComputerCraft](https://github.com/cc-tweaked/CC-Tweaked) working together</sup>
-
-![Kotlin](https://img.shields.io/badge/kotlin-2D2D2D.svg?style=for-the-badge&logo=kotlin&logoColor=E04E14) [![](https://cf.way2muchnoise.eu/573374.svg)](https://www.curseforge.com/minecraft/mc-mods/oc2-cc-t) [![](https://cf.way2muchnoise.eu/versions/573374.svg)](https://www.curseforge.com/minecraft/mc-mods/oc2-cc-t) ![Mod loader: Forge](https://img.shields.io/static/v1?style=flat-square&label=Mod%20Loader&message=Forge&labelColor=2D2D2D&color=E04E14)
+# OC2-CC:T <br> <sup>[OpenComputers2](https://github.com/fnuecke/oc2) and [ComputerCraft](https://github.com/cc-tweaked/CC-Tweaked) working together</sup> <br> ![Kotlin](https://img.shields.io/badge/kotlin-2D2D2D.svg?style=for-the-badge&logo=kotlin&logoColor=E04E14) [![](https://cf.way2muchnoise.eu/573374.svg)](https://www.curseforge.com/minecraft/mc-mods/oc2-cc-t) [![](https://cf.way2muchnoise.eu/versions/573374.svg)](https://www.curseforge.com/minecraft/mc-mods/oc2-cc-t) ![Mod loader: Forge](https://img.shields.io/static/v1?style=flat-square&label=Mod%20Loader&message=Forge&labelColor=2D2D2D&color=E04E14)
 
 ### What?
 This is a mod that adds a single block, the "Universal Interface". It exports the ComputerCraft peripheral API to OpenComputers2 and exports the OpenComputers2 networking API to ComputerCraft.
