@@ -10,3 +10,9 @@ The "Universal Interface" functions as a bridge between the OpenComputers and Co
 
 ### Why?
 This project is just intended to tide me and others over for the time being until peripheral support gets better for OpenComputers2.
+
+
+---
+### License
+
+Licensed under [LGPL3](/LICENSE).
